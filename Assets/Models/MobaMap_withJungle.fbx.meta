@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 0d3aae952186d6848a24301a9e7c9719
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BaseA
+    100002: BaseB
+    100004: BlockRemover
+    100006: BlockRemover.001
+    100008: BlockRemover.002
+    100010: BlockRemover.003
+    100012: BotCollision
+    100014: BotLane
+    100016: BotPath
+    100018: JungleColiison
+    100020: JungleLane
+    100022: JunglePath
+    100024: MidCollision
+    100026: MidLane
+    100028: MidPath
+    100030: //RootNode
+    100032: TopCollision
+    100034: TopLane
+    100036: TopPath
+    100038: Terrain
+    400000: BaseA
+    400002: BaseB
+    400004: BlockRemover
+    400006: BlockRemover.001
+    400008: BlockRemover.002
+    400010: BlockRemover.003
+    400012: BotCollision
+    400014: BotLane
+    400016: BotPath
+    400018: JungleColiison
+    400020: JungleLane
+    400022: JunglePath
+    400024: MidCollision
+    400026: MidLane
+    400028: MidPath
+    400030: //RootNode
+    400032: TopCollision
+    400034: TopLane
+    400036: TopPath
+    400038: Terrain
+    2100000: No Name
+    2300000: BaseA
+    2300002: BaseB
+    2300004: BlockRemover
+    2300006: BlockRemover.001
+    2300008: BlockRemover.002
+    2300010: BlockRemover.003
+    2300012: BotCollision
+    2300014: BotLane
+    2300016: BotPath
+    2300018: JungleColiison
+    2300020: JungleLane
+    2300022: JunglePath
+    2300024: MidCollision
+    2300026: MidLane
+    2300028: MidPath
+    2300030: TopCollision
+    2300032: TopLane
+    2300034: TopPath
+    2300036: Terrain
+    3300000: BaseA
+    3300002: BaseB
+    3300004: BlockRemover
+    3300006: BlockRemover.001
+    3300008: BlockRemover.002
+    3300010: BlockRemover.003
+    3300012: BotCollision
+    3300014: BotLane
+    3300016: BotPath
+    3300018: JungleColiison
+    3300020: JungleLane
+    3300022: JunglePath
+    3300024: MidCollision
+    3300026: MidLane
+    3300028: MidPath
+    3300030: TopCollision
+    3300032: TopLane
+    3300034: TopPath
+    3300036: Terrain
+    4300000: BaseA
+    4300002: BaseB
+    4300004: TopPath
+    4300006: TopLane
+    4300008: BotPath
+    4300010: BotLane
+    4300012: MidPath
+    4300014: MidLane
+    4300016: TopCollision
+    4300018: BotCollision
+    4300020: MidCollision
+    4300022: JunglePath
+    4300024: JungleLane
+    4300026: JungleColiison
+    4300028: BlockRemover
+    4300030: BlockRemover.001
+    4300032: BlockRemover.002
+    4300034: BlockRemover.003
+    4300036: Terrain
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
